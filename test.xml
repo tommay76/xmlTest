@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="ISO-8859-1" standalone = "no"?>
-<!DOCTYPE rss PUBLIC "ISO//DTD XML//EN" "https://xmltime.imfast.io/note.dtd">
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE foo [ <!ELEMENT foo ANY >
+<!ENTITY xxe  "Yoooo" >]>
 <rss>    
     <channel>    
         <item>
