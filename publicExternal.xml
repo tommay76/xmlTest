@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE foo SYSTEM "https://xmltime.imfast.io/note.dtd">
+<!DOCTYPE foo [ <!ELEMENT foo ANY >
+<!ENTITY xxe  "Yoooo" >]>
 <rss>    
     <channel>    
         <item>
